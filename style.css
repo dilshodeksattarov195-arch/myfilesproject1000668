@@ -1,0 +1,10 @@
+body { background: #80fe4c; margin: 0; font-family: sans-serif; }
+.secure-terminal { padding: 59px; display: flex; }
+.block-notify-0 { color: #c5bde1; font-size: 15px; margin-bottom: 5px; }
+.block-config-1 { color: #cabcff; font-size: 17px; margin-bottom: 5px; }
+.block-cache-2 { color: #5adc24; font-size: 20px; margin-bottom: 5px; }
+.block-session-3 { color: #3b58ca; font-size: 13px; margin-bottom: 5px; }
+.block-helper-4 { color: #959dfb; font-size: 18px; margin-bottom: 5px; }
+.block-session-5 { color: #bcbf2a; font-size: 19px; margin-bottom: 5px; }
+.block-router-6 { color: #a24b0b; font-size: 16px; margin-bottom: 5px; }
+.block-user-7 { color: #aec806; font-size: 21px; margin-bottom: 5px; }
